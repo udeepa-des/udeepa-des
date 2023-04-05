@@ -10,7 +10,7 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
 
-## 📫 Reach me on: ... 
+## 📫 Reach me at: ... 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udeepaDG@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/udeepa) 
 
