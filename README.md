@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning ... MERN Stack
 - 👯 I’m looking to collaborate on ... ReactJs
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: ... He/Him
 
 ## 📫 Reach me at: ... 
 
