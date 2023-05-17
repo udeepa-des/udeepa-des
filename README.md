@@ -1,7 +1,7 @@
 ![TestTypingGIF](https://user-images.githubusercontent.com/68679420/229775450-1c333237-a39f-4398-b1fa-b8f1bc183837.gif)
 
 # Hi there 👋, I'm udeepa 
-## Full-stack developer 👨🏻‍💻
+## Software Engineer 👨🏻‍💻
 ### Fresh graduate 👨🏻‍🎓🎓
 
 - 🔭 I’m currently working on ... a website to generate images from texts using AI
